@@ -8,7 +8,7 @@ It's a slow learner, but it has the advantage of being subtle.
 저는 야구와 레슬링 그리고 볼링을 취미로 가지고 있습니다. + 게임과 만화도 좋아합니다.
 배움과 습득은 느리지만, 그만큼 꼼꼼하고 섬세하게 다룰 수 있도록 하고자 합니다.
 
-**💪Skills
+💪Skills
 
 Platforms & Languages
 
