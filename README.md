@@ -10,7 +10,6 @@ My hobbies include baseball, wrestling, and bowling + I also love video games an
 I'm a slow learner, but I'm very meticulous and detail oriented.
 
 **💪Skills**
-
 Platforms & Languages
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -24,6 +23,24 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
+● Spring/ Spring Boot
+● JSP
+● Servlet
+● React
+● Ajax(관련기술)
+● Api(관련기술)
+● MyBatis
+● Bootstrap
+● Express.js(node.js)
+● Tailwind CSS
+
+● InteliJ
+● Eclipse
+● VS Code
+● Arduino
+● Jupiter notebook
+● Github
+● DBeaver
 
 <h3 align="center">💻 My Github Stats 💻</h3>
 <div align="center">
