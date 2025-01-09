@@ -10,6 +10,7 @@ My hobbies include baseball, wrestling, and bowling + I also love video games an
 I'm a slow learner, but I'm very meticulous and detail oriented.
 
 **💪Skills**
+<br/>
 Platforms & Languages
 <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
