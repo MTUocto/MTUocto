@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=160&section=header&text=Mtu_octo&fontSize=50&fontAlignY=70&fontSize=90&fontColor=000000))
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=160&section=header&text=Mtu_octo&fontSize=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 Hi there 👋 I'm a full-stack developer-in-training and use a variety of technologies and programs.
 
