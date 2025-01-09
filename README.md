@@ -9,7 +9,7 @@ Hi.👋 I'm a full-stack developer and I'm learning and mastering various progra
 My hobbies include baseball, wrestling, and bowling + I also love video games and comics.
 I'm a slow learner, but I'm very meticulous and detail oriented.
 
-💪Skills
+**💪Skills**
 
 Platforms & Languages
 <br/>
