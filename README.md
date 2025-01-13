@@ -25,7 +25,9 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=bootstrap&logoColor=white">
 
 ● Spring/ Spring Boot
 ● JSP
