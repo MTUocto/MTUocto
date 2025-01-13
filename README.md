@@ -28,25 +28,12 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-
-● Spring/ Spring Boot
-● JSP
-● Servlet
-● React
-● Ajax(관련기술)
-● Api(관련기술)
-● MyBatis
-● Bootstrap
-● Express.js(node.js)
-● Tailwind CSS
-
-● InteliJ
-● Eclipse
-● VS Code
-● Arduino
-● Jupiter notebook
-● Github
-● DBeaver
+<img src="https://img.shields.io/badge/InteliJ-000000?style=flat-square&logo=InteliJ&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/VS Code-2C2255?style=flat-square&logo=VS Code&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 
 <h3 align="center">💻 My Github Stats 💻</h3>
 <div align="center">
